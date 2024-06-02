@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test-connection-cas-non-passant-mdp-invalide</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04b2300d-33a5-46c7-999c-70e987990de5</testCaseGuid>
+</TestCaseEntity>
